@@ -26,5 +26,5 @@ To get started with the project, follow these steps:
 3. **Run the application**
 
 ## Screenshots
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](app/src/main/res/drawable/Screenshot1.png)
+![Screenshot 2](app/src/main/res/drawable/Screenshot2.png)
